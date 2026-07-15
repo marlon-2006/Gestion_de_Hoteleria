@@ -1,0 +1,2 @@
+# id|cedulaCliente|habitacion|fechaEntrada|fechaSalida|estado|descuento|servicios
+RES-1|2150149801|303|2026-07-15|2026-07-16|CONFIRMADA|0.0|

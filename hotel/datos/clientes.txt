@@ -1,0 +1,2 @@
+# nombre|apellido|cedula|telefono|email|tarjeta
+Marlon|Shiguango|2150149801|0980173201|marlon2006shiguangozapata@gmail.com|1235678912356
